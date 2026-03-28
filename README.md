@@ -1,15 +1,15 @@
 # MANOSUBE CIVILIZATION OS
 
-## README -- Civilization Boot Protocol v2.0
+## README — Civilization Boot Protocol v2.0
 
 ---
 
 ## 0. STATUS
 
-Civilization Log ? 昇華の記録
+Civilization Log — 昇華の記録
 
 * 日付：2026年3月24日
-* 状態：MANOSUBE Civilization OS ? 昇華
+* 状態：MANOSUBE Civilization OS — 昇華
 * 転換点：
   　「AIに近づく」から
   　「人間が観測能力を取り戻す」へ
