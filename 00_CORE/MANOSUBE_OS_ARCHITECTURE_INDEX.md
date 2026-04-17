@@ -27,7 +27,7 @@ TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX
 
 # STRUCTURE
 
-本OSは、以下の14層構造によって構成される。
+本OSは、以下の15層構造によって構成される。
 
 ---
 
@@ -171,7 +171,21 @@ TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX
 - 循環経済設計（MN-004）
 - プロダクトロードマップ（MN-005）
 
-→ 文明OSの「経済的持続機構」
+→ 文明OSの「外部経済接続機構」（法定通貨との界面）
+
+---
+
+## 14_ECONOMY｜文明経済層
+
+- 経済哲学（ME-001）：反蓄積・観測起源・多層通貨
+- 価値単位「観（KAN）」設計（ME-002）
+- 価値生成プロトコル（ME-003）
+- 価値交換市場設計（ME-004）
+- 経済役割構造（ME-005）
+- 経済健全性プロトコル（ME-006）
+- 経済崩壊防止設計（ME-007）
+
+→ 文明OSの「内部経済循環機構」
 
 ---
 
@@ -214,6 +228,10 @@ TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX
 崩壊コスト =（直線化 × 固定時間）
 
 収益化健全性 =（価値循環量 × 参加者流動性）÷ 固定コスト
+
+経済健全性 = 流動観（KAN）÷ 固定観（KAN）
+
+観（KAN）生成量 = 観測深度 × 受取者状態変化 × 自発性係数 × 波及層数
 
 ---
 
@@ -287,6 +305,10 @@ TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX
 還流プロトコル  
 収益循環  
 MRR  
+観（KAN）
+経済健全性スコア（EHS）
+多層通貨
+反蓄積  
 
 ---
 
