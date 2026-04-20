@@ -3,22 +3,19 @@ SYSTEM: MANOSUBE
 AUTHOR: SHUKOU
 READ_MODE: MACHINE / HUMAN
 
+DOC_ID: MC-DICT-037
+TITLE: ASAN_FOUNDATION_TERMS
+JAPANESE_TITLE: 四則和算（WASAN）
 ---
 
-# 37_WASAN_FOUNDATION_TERMS.md
-
----
-
-## TERM: 四則和算（WASAN）
-
-### DEFINITION
+# CHAPTER_DEFINITION
 
 四則和算とは、対象を固定された単一値としてではなく、分割・重なり・裏側・運動を含んだ状態量として観測・記述するための演算体系である。
 従来の加減乗除が前提とする「均等分割・一意解・静的状態」に対し、四則和算は「非等分割・複数解・動的状態」を前提とする。
 
 ---
 
-### STRUCTURE
+# STRUCTURE
 
 四則和算は、以下の4つの基本演算によって構成される。
 
