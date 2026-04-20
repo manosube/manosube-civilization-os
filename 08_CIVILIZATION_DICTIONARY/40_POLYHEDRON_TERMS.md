@@ -9,7 +9,7 @@ JAPANESE_TITLE: 多面体語彙
 
 ---
 
-# CHAPTER_DEFINITION
+# DEFINITION
 
 多面体語彙とは、
 マノスベ文明OSにおける幾何学拡張モジュールを支えるための語彙群であり、
@@ -32,18 +32,18 @@ JAPANESE_TITLE: 多面体語彙
 
 本章は以下の語彙群で構成される。
 
-* POLYHEDRON（多面体）
-* GEOMETRIC_FIELD（幾何場）
-* NODE（節点）
-* EDGE（接続辺）
-* FACE（場面）
-* VERTEX_TENSION（頂点緊張）
-* EDGE_FLOW（辺流）
-* FACE_STABILITY（面安定）
-* STRUCTURAL_SYMMETRY（構造対称）
-* ASYMMETRIC_BIAS（非対称偏在）
-* ICOSAHEDRON（正二十面体）
-* GEOMETRY_MODULE（幾何学拡張モジュール）
+・POLYHEDRON（多面体）
+・GEOMETRIC_FIELD（幾何場）
+・NODE（節点）
+・EDGE（接続辺）
+・FACE（場面）
+・VERTEX_TENSION（頂点緊張）
+・EDGE_FLOW（辺流）
+・FACE_STABILITY（面安定）
+・STRUCTURAL_SYMMETRY（構造対称）
+・ASYMMETRIC_BIAS（非対称偏在）
+・ICOSAHEDRON（正二十面体）
+・GEOMETRY_MODULE（幾何学拡張モジュール）
 
 ---
 
