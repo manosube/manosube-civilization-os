@@ -130,6 +130,24 @@ TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX
 
 ---
 
+## 13_WASAN_INTERFACE｜和算演算インターフェース層
+
+- 四則和算演算（CUT / OVERLAP / BACKSIDE / MOTION）
+- 非線形状態観測補助構造
+
+→ 文明の「非線形観測演算層」
+
+---
+
+## 14_GEOMETRY_MODULE｜幾何学モジュール層
+
+- 三軸場モデル・八層場構造・33階層空間モデル
+- 20面体モデル・ノード・エッジ・フェイス対応
+
+→ 文明の「幾何学観測基盤」
+
+---
+
 ## 99_AI_INTERFACE｜AI接続層
 
 - AI読み込みガイド
