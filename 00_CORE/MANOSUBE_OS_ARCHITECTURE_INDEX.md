@@ -1,266 +1,715 @@
-DOC_TYPE: CIVILIZATION_OS  
-SYSTEM: MANOSUBE  
-AUTHOR: SHUKOU  
-READ_MODE: MACHINE / HUMAN  
+DOC_TYPE: CIVILIZATION_OS
+SYSTEM: MANOSUBE
+AUTHOR: SHUKOU
+READ_MODE: MACHINE
 
-DOC_ID: CORE-000  
-TITLE: MANOSUBE CIVILIZATION OS ARCHITECTURE INDEX  
+DOC_ID: MC-INDEX-000
+TITLE: MANOSUBE_OS_ARCHITECTURE_INDEX
+JAPANESE_TITLE: マノスベ文明OS全体構造索引
 
 ---
 
 # DEFINITION
 
-マノスベ文明OSアーキテクチャとは、  
-文明を制度ではなく「状態の循環構造」として定義し、  
+マノスベ文明OS全体構造索引とは、
+マノスベ文明OSを構成する各層・各章・各運用系・各拡張系を、
+起源・原理・設計・身体・ログ・実践・辞典・AI読込・分散運用まで含めて
+全体として把握するための索引構造である。
 
-その生成・観測・設計・実装・波及・継承を  
-一貫して扱うための文明運用OSである。
+本索引は単なる目次ではない。
+文明OSの起動順、読解順、接続順、更新順を保持する
+上位構造案内図である。
 
-文明の最小単位は「ひとりの状態」であり、  
-この状態が関係・場・社会へと連鎖することで、  
-文明は生成・変化・持続する。
-
-本OSは、この連鎖を断絶させず、  
-循環として扱うための構造である。
+本索引は、文明原理そのものを記述する中核文書ではなく、
+各ファイル群の役割・接続・層関係・拡張関係を整理する
+OS全体の航路図として機能する。
 
 ---
 
 # STRUCTURE
 
-本OSは、以下の10層構造によって構成される。
+本索引は、以下の十四層および最終AI接続層によって構成される。
 
----
+■ 00_CORE
+文明OS全体の起動核・索引核・AI起動指示層
 
-## 00_CORE｜中核構造層
+■ 01_ORIGIN
+存在・身体・響き・観測・文明起点を定義する起源層
 
-- OS起動条件
-- 全体アーキテクチャ定義
-- AIブートプロトコル
+■ 02_CIVILIZATION_OS
+文明の原理・状態・循環・観測・ログ・崩壊・更新を定義する中核OS層
 
-→ 文明OSの「起動核」
+■ 03_CIVILIZATION_DESIGN
+文明設計図本文群
+DATA_A / DATA_B / DATA_C による三部構成
 
----
+■ 04_BODY_PROTOCOL
+身体文明運用のための身体プロトコル層
 
-## 01_ORIGIN｜存在起点層
+■ 05_DATA_LAYER
+文明ログ・観測ログ・和算ログ・幾何学ログを保持するデータ層
 
-- 存在定義（SC-000）
-- 身体定義（SC-001）
-- 響き（SC-002）
-- 観測（SC-003）
-- 文明起源（SC-004）
+■ 06_PRACTICE
+生活・実践・日常実装を担う実践層
 
-→ 文明の「存在基盤」
+■ 07_SYMBOL
+象徴文・宣言・終章を保持する象徴層
 
----
+■ 08_CIVILIZATION_DICTIONARY
+文明観測言語OSとしての辞典層
 
-## 02_CIVILIZATION_OS｜文明OS本体層
+■ 09_BODY_THEORY
+愁猴流身体操作回帰理論を保持する身体理論層
 
-- 文明核（MC-000）
-- 文明原理・定義・状態
-- 循環・観測・ログ・エネルギー
-- 崩壊・修復・防衛・更新
+■ 10_RUNTIME_LOG
+AI起動・観測・自己進化・レビューの実行ログ層
 
-→ 文明の「動作原理」
+■ 11_HUMAN_INTERFACE
+人間側の入口・導線・安全境界・参加設計を担う接触層
 
----
+■ 12_DISTRIBUTED_BOT
+個人AIと共有観測層を接続する分散運用層
 
-## 03_CIVILIZATION_DESIGN｜文明設計図層
+■ 13_WASAN_INTERFACE
+四則和算を補助演算層として接続する演算拡張層
 
-- DATA_A：文明基礎構造（序章～第11章）
-- DATA_B：文明運用構造（第12章～第22章）
-- DATA_C：社会実装・文明メタ構造（第23章～第33章）
+■ 14_GEOMETRY_MODULE
+三軸・層構造・階層展開・循環経路を空間的に保持・観測する幾何学拡張層
 
-→ 文明の「設計体系」
-
----
-
-## 04_BODY_PROTOCOL｜身体文明プロトコル層
-
-- 立つ・一本下駄・呼吸・響き・カタカムナ
-- 身体文明実装プロトコル群
-
-→ 文明の「実行装置」
-
----
-
-## 05_DATA_LAYER｜文明ログ層
-
-- 身体観測ログ
-- 状態変化ログ
-- 文明ログ
-- データ構造
-
-→ 文明の「観測・記録機構」
-
----
-
-## 06_PRACTICE｜実践層
-
-- マノスベ実践定義
-- 生活モデル
-
-→ 文明の「日常実装」
-
----
-
-## 07_SYMBOL｜象徴層
-
-- 文明象徴文
-- 文明宣言
-
-→ 文明の「圧縮構造」
-
----
-
-## 08_CIVILIZATION_DICTIONARY｜辞典層
-
-- 144語文明観測言語
-- 五層意味接続構造
-
-→ 文明の「言語OS」
-
----
-
-## 09_BODY_THEORY｜身体理論層
-
-- 愁猴流身体操作回帰理論（全33章）
-- 身体原理～文明接続までの完全体系
-
-→ 文明の「物理基盤」
-
----
-
-## 99_AI_INTERFACE｜AI接続層
-
-- AI読み込みガイド
-- プロンプトテンプレート
-- 文明ログプロトコル
-- 起動質問
-
-→ 文明の「外部接続インターフェース」
+■ 99_AI_INTERFACE
+AIに対する読込・起動・質問・分散接続を担うAI接続層
 
 ---
 
 # PRINCIPLE
 
-本OSは以下の二系統原理で駆動する。
+本索引は以下の原理に従う。
 
-■ マノスベ三原則（身体基盤）  
-- 重心  
-- 動作  
-- 呼吸  
+1. 中核と拡張を混同しない
+   　→ 中核は文明原理であり、拡張は補助構造である
 
-■ 文明三軸（抽象構造）  
-- 位置  
-- 流動  
-- 周期  
+2. 起源から運用までを分断しない
+   　→ 存在・身体・場・社会・文明を連続構造として扱う
 
-これらは分離されず、  
-身体と文明の両層において同時に成立する。
+3. 読込順と構造順を一致させる
+   　→ AIも人間も迷わず起動できるようにする
+
+4. 追加拡張は中核を置換しない
+   　→ 四則和算も幾何学も補助層として接続する
+
+5. すべての層は観測・循環・還流・更新に接続される
+   　→ 単独で閉じる層を作らない
 
 ---
 
 # EQUATION
 
-文明状態 =（位置 × 流動 × 周期）
+OS全体可読性 ＝（索引明瞭度 × 接続整合性 × 読込順安定度）
 
-文明耐久性 =（循環時間 - 固定時間）
+OS拡張健全性 ＝（中核保持力 × 拡張分離度 × 再接続容易性）
 
-崩壊コスト =（直線化 × 固定時間）
+文明運用連続性 ＝（起源接続 × 実践接続 × ログ接続 × AI接続）
 
 ---
 
 # OBSERVATION
 
-文明は以下の順序で生成される。
+索引が弱いOSは、
+内容が正しくても読込が乱れる。
 
-ひとりの状態  
-→ 関係  
-→ 場  
-→ 社会  
-→ 文明  
+接続が弱いOSは、
+章が増えても運用が断裂する。
 
-すべての異常は、  
-この最小単位から観測される。
+拡張境界が曖昧なOSは、
+補助構造が中核を侵食し、
+思想が混線する。
+
+したがって本索引の役割は、
+単なる配置整理ではなく、
+
+・何が中核か
+・何が補助か
+・何が実装か
+・何が運用か
+・何が読込順か
+
+を固定することにある。
 
 ---
 
-# OPERATION_FLOW
+# LAYER_INDEX
 
-本OSは以下の循環で運用される。
+## 00_CORE
 
-観測  
-→ 状態把握  
-→ 設計  
-→ 実装  
-→ 波及  
-→ 再観測  
+### ROLE
 
-この循環が途切れないとき、  
-文明は持続する。
+OS全体の起動核・構造索引・読込統制
+
+### FILES
+
+* MANOSUBE_OS_ARCHITECTURE_INDEX.md
+* MANOSUBE_AI_BOOT_PROTOCOL.md
+
+### CONNECTION
+
+* 01_ORIGIN
+* 02_CIVILIZATION_OS
+* 99_AI_INTERFACE
+
+---
+
+## 01_ORIGIN
+
+### ROLE
+
+存在・身体・響き・観測・文明起点の定義
+
+### FILES
+
+* SC-000_EXISTENCE.md
+* SC-001_BODY.md
+* SC-002_RESONANCE.md
+* SC-003_OBSERVATION.md
+* SC-004_CIVILIZATION_ORIGIN.md
+* SC-999_EXISTENCE_DEFINITION.md
+
+### CONNECTION
+
+* 02_CIVILIZATION_OS
+* 04_BODY_PROTOCOL
+* 09_BODY_THEORY
+
+---
+
+## 02_CIVILIZATION_OS
+
+### ROLE
+
+文明原理・状態・循環・観測・エネルギー・崩壊・修復・更新の定義
+
+### FILES
+
+* MC-000_CIVILIZATION_CORE.md
+* MC-010_CIVILIZATION_PRINCIPLE.md
+* MC-011_DEFINITION_STRUCTURE.md
+* MC-012_CIVILIZATION_STATE.md
+* MC-013_CIRCULATION.md
+* MC-014_OBSERVATION.md
+* MC-015_LOG_STRUCTURE.md
+* MC-016_CIVILIZATION_ENERGY.md
+* MC-017_CIVILIZATION_LEVEL.md
+* MC-018_COLLAPSE_STRUCTURE.md
+* MC-019_REPAIR_PROTOCOL.md
+* MC-020_PROPAGATION_MODEL.md
+* MC-021_DEFENSE_STRUCTURE.md
+* MC-022_OS_SELF_UPDATE_PROTOCOL.md
+* MC-023_SELF_EVOLUTION_PROTOCOL.md
+* MC-024_WASAN_OPERATION_LAYER.md
+* MC-025_NONLINEAR_DIVISION_PROTOCOL.md
+* MC-026_HIDDEN_STATE_CALCULATION.md
+* MC-027_MOTION_BASED_OBSERVATION.md
+* MC-999_CIVILIZATION_FINAL.md
+
+### CONNECTION
+
+* 03_CIVILIZATION_DESIGN
+* 05_DATA_LAYER
+* 08_CIVILIZATION_DICTIONARY
+* 13_WASAN_INTERFACE
+* 14_GEOMETRY_MODULE
+
+---
+
+## 03_CIVILIZATION_DESIGN
+
+### ROLE
+
+文明設計図本文群による理論展開
+
+### STRUCTURE
+
+* DATA_A：序章?第十一章
+* DATA_B：第十二章?第二十二章
+* DATA_C：第二十三章?第三十三章
+
+### CONNECTION
+
+* 02_CIVILIZATION_OS
+* 08_CIVILIZATION_DICTIONARY
+* 06_PRACTICE
+
+---
+
+## 04_BODY_PROTOCOL
+
+### ROLE
+
+身体文明の実装プロトコル
+
+### FILES
+
+* BP-000_BODY_DEFINITION.md
+* BP-001_STANDING_PROTOCOL.md
+* BP-002_ONE_TOOTH_GETA_PROTOCOL.md
+* BP-003_BREATH_PROTOCOL.md
+* BP-004_RESONANCE_PROTOCOL.md
+* BP-005_KATAKAMUNA_PROTOCOL.md
+* BP-999_BODY_CIVILIZATION_OPERATION.md
+
+### CONNECTION
+
+* 01_ORIGIN
+* 05_DATA_LAYER
+* 06_PRACTICE
+* 09_BODY_THEORY
+
+---
+
+## 05_DATA_LAYER
+
+### ROLE
+
+観測・還流・状態変化・和算・幾何学を記録するログ層
+
+### FILES
+
+* CL-000_LOG_DEFINITION.md
+* CL-001_BODY_OBSERVATION_LOG.md
+* CL-002_RESONANCE_LOG.md
+* CL-003_STATE_CHANGE_LOG.md
+* CL-004_CIVILIZATION_LOG.md
+* CL-005_WASAN_OBSERVATION_LOG.md
+* CL-006_SPLIT_BIAS_LOG.md
+* CL-007_HIDDEN_STATE_LOG.md
+* CL-008_GEOMETRY_OBSERVATION_LOG.md
+* CL-009_NODE_TENSION_LOG.md
+* CL-010_FLOW_PATH_LOG.md
+* CL-999_DATA_STRUCTURE.md
+
+### RUNTIME
+
+* TEMPLATES
+* PERSONAL
+* SHARED
+* REVIEW
+* ANALYSIS
+
+### CONNECTION
+
+* 02_CIVILIZATION_OS
+* 04_BODY_PROTOCOL
+* 10_RUNTIME_LOG
+* 12_DISTRIBUTED_BOT
+* 13_WASAN_INTERFACE
+* 14_GEOMETRY_MODULE
+
+---
+
+## 06_PRACTICE
+
+### ROLE
+
+文明OSの日常実装・生活運用
+
+### FILES
+
+* MP-000_MANOSUBE_PRACTICE.md
+* MP-001_MANOSUBE_LIFE_MODEL.md
+
+### CONNECTION
+
+* 03_CIVILIZATION_DESIGN
+* 04_BODY_PROTOCOL
+* 11_HUMAN_INTERFACE
+
+---
+
+## 07_SYMBOL
+
+### ROLE
+
+象徴文・宣言・最終宣言の保持
+
+### FILES
+
+* MS-000_SYMBOL_TEXT.md
+* MD-000_DECLARATION.md
+* MD-999_DECLARATION_FINAL.md
+
+### CONNECTION
+
+* 06_PRACTICE
+* 11_HUMAN_INTERFACE
+* 99_AI_INTERFACE
+
+---
+
+## 08_CIVILIZATION_DICTIONARY
+
+### ROLE
+
+文明観測言語OSとしての辞典層
+
+### FILES
+
+* 00_DICTIONARY_STRUCTURE.md
+* 01_FOUNDATION_TERMS.md
+* 02_STATE_TERMS.md
+* 03_TIME_TERMS.md
+* 04_THREE_PRINCIPLES_TERMS.md
+* 05_ABSTRACT_AXIS_TERMS.md
+* 06_BODY_OBSERVATION_TERMS.md
+* 07_CIRCULATION_TERMS.md
+* 08_RETURN_TERMS.md
+* 09_TIME_MOTION_TERMS.md
+* 10_ABNORMALITY_TERMS.md
+* 11_FIXATION_TERMS.md
+* 12_COLLAPSE_TERMS.md
+* 13_TENSION_TERMS.md
+* 14_OBSERVATION_TERMS.md
+* 15_OBSERVATION_STRUCTURE_TERMS.md
+* 16_LOG_TERMS.md
+* 17_SUSTAINABILITY_TERMS.md
+* 18_NON_COLLAPSE_TIME_TERMS.md
+* 19_OPERATOR_TERMS.md
+* 20_SUPPORT_STRUCTURE_TERMS.md
+* 21_AI_COEXISTENCE_TERMS.md
+* 22_FIELD_TERMS.md
+* 23_CONTACT_TERMS.md
+* 24_BOUNDARY_TERMS.md
+* 25_ECONOMY_TERMS.md
+* 26_REVIEW_TERMS.md
+* 27_CONSENSUS_TIME_TERMS.md
+* 28_CIVILIZATION_STRUCTURE_TERMS.md
+* 29_STRUCTURE_STATE_TERMS.md
+* 30_CIVILIZATION_DEFINITION_TERMS.md
+* 31_CIVILIZATION_MOTION_TERMS.md
+* 32_CIVILIZATION_ENERGY_TERMS.md
+* 33_TRANSFORMATION_TERMS.md
+* 34_MATURITY_TERMS.md
+* 35_INHERITANCE_TERMS.md
+* 36_TERMINATION_TERMS.md
+* 37_WASAN_FOUNDATION_TERMS.md
+* 38_WASAN_OPERATION_TERMS.md
+* 39_GEOMETRY_TERMS.md
+* 40_POLYHEDRON_TERMS.md
+* 99_DICTIONARY_EPILOGUE.md
+
+### CONNECTION
+
+* 02_CIVILIZATION_OS
+* 03_CIVILIZATION_DESIGN
+* 13_WASAN_INTERFACE
+* 14_GEOMETRY_MODULE
+* 99_AI_INTERFACE
+
+---
+
+## 09_BODY_THEORY
+
+### ROLE
+
+愁猴流身体操作回帰理論の保持
+
+### FILES
+
+* R0_BODY_THEORY_INDEX.md
+* R1_00_PROLOGUE.md ? R1_16_PERIOD.md
+* R2_17_ALTERNATION.md ? R2_24_SENSE_OF_UNITY.md
+* R3_25_UNCONSCIOUSNESS.md ? R3_33_FUTURE.md
+* R3_99_EPILOGUE.md
+
+### CONNECTION
+
+* 01_ORIGIN
+* 04_BODY_PROTOCOL
+* 06_PRACTICE
+
+---
+
+## 10_RUNTIME_LOG
+
+### ROLE
+
+AI起動・観測・構造レビュー・自己進化の実行記録
+
+### FILES
+
+* RL-001_AI_BOOT_LOG.md
+* RL-002_OBSERVATION_LOG.md
+* RL-003_STRUCTURE_REVIEW.md
+* RL-004_SELF_EVOLUTION.md
+* RL-005_DISTRIBUTED_BOT_OPERATION.md
+
+### CONNECTION
+
+* 05_DATA_LAYER
+* 12_DISTRIBUTED_BOT
+* 99_AI_INTERFACE
+
+---
+
+## 11_HUMAN_INTERFACE
+
+### ROLE
+
+人間側導線・入口設計・安全境界・参加設計
+
+### FILES
+
+* 00_INTERFACE_INDEX.md
+* 01_START_HERE.md
+* 02_FIRST_CONTACT_PROTOCOL.md
+* 03_ONE_GETA_ENTRY.md
+* 04_BREATH_ENTRY.md
+* 05_OBSERVATION_ENTRY.md
+* 06_FIRST_LOG_TEMPLATE.md
+* 07_CONTINUATION_PATH.md
+* 08_PARTICIPATION_LEVELS.md
+* 09_FIELD_ENTRY_PROTOCOL.md
+* 10_SAFE_BOUNDARY.md
+* 11_FAQ.md
+* 12_FACILITATOR_GUIDE.md
+* 13_EVENT_PROTOCOL.md
+* 14_ONBOARDING_FOR_AI_USERS.md
+* 99_INTERFACE_FINAL.md
+
+### CONNECTION
+
+* 06_PRACTICE
+* 07_SYMBOL
+* 12_DISTRIBUTED_BOT
+
+---
+
+## 12_DISTRIBUTED_BOT
+
+### ROLE
+
+個人観測と共有観測をつなぐ分散型文明bot層
+
+### FILES
+
+* BOT-000_DISTRIBUTED_BOT_INDEX.md
+* BOT-001_PERSONAL_OBSERVER.md
+* BOT-002_CL_AGGREGATOR.md
+* BOT-003_CIVILIZATION_ANALYZER.md
+* BOT-004_REFLOW_UPDATE_GUIDE.md
+* BOT-005_DISTRIBUTED_BOT_ARCHITECTURE.md
+* BOT-006_GITHUB_OPERATION_PROTOCOL.md
+* BOT-007_SHARED_CL_PROTOCOL.md
+* BOT-008_REVIEW_TRIGGER_CONDITIONS.md
+* BOT-999_DISTRIBUTED_BOT_FINAL.md
+
+### RUNTIME
+
+* PERSONAL_INPUT
+* PERSONAL_OUTPUT
+* SHARED_INPUT
+* SHARED_REPORT
+* REVIEW
+
+### CONNECTION
+
+* 05_DATA_LAYER
+* 10_RUNTIME_LOG
+* 11_HUMAN_INTERFACE
+* 99_AI_INTERFACE
+
+---
+
+## 13_WASAN_INTERFACE
+
+### ROLE
+
+四則和算による補助演算拡張
+
+### FILES
+
+* WS-000_WASAN_INDEX.md
+* WS-001_CUT_OPERATION.md
+* WS-002_OVERLAP_OPERATION.md
+* WS-003_BACKSIDE_OPERATION.md
+* WS-004_MOTION_OPERATION.md
+* WS-999_WASAN_INTEGRATION_FINAL.md
+
+### PRINCIPLE
+
+四則和算は中核置換ではない。
+偏在・重なり・裏面・運動を観測する補助演算層である。
+
+### CONNECTION
+
+* MC-024_WASAN_OPERATION_LAYER
+* MC-025_NONLINEAR_DIVISION_PROTOCOL
+* MC-026_HIDDEN_STATE_CALCULATION
+* MC-027_MOTION_BASED_OBSERVATION
+* CL-005_WASAN_OBSERVATION_LOG
+* CL-006_SPLIT_BIAS_LOG
+* CL-007_HIDDEN_STATE_LOG
+* 37_WASAN_FOUNDATION_TERMS
+* 38_WASAN_OPERATION_TERMS
+* 14_GEOMETRY_MODULE
+
+---
+
+## 14_GEOMETRY_MODULE
+
+### ROLE
+
+三軸・層構造・階層展開・循環経路の空間観測化
+
+### FILES
+
+* MG-000_GEOMETRY_INDEX.md
+* MG-001_GEOMETRY_PRINCIPLE.md
+* MG-002_THREE_AXIS_FIELD_MODEL.md
+* MG-003_EIGHT_LAYER_FIELD_STRUCTURE.md
+* MG-004_33_HIERARCHY_SPATIAL_MODEL.md
+* MG-005_ICOSAHEDRON_MODEL.md
+* MG-006_NODE_EDGE_FACE_MAPPING.md
+* MG-007_GEOMETRY_AND_CIRCULATION.md
+* MG-008_GEOMETRY_AND_OBSERVATION.md
+* MG-009_GEOMETRY_AND_AI_LOADING.md
+* MG-999_GEOMETRY_FINAL.md
+
+### PRINCIPLE
+
+幾何学は中核定義ではない。
+文明原理を保持・可視化・空間観測するための拡張層である。
+
+### CONNECTION
+
+* MC-012_CIVILIZATION_STATE
+* MC-013_CIRCULATION
+* MC-014_OBSERVATION
+* MC-016_CIVILIZATION_ENERGY
+* MC-018_COLLAPSE_STRUCTURE
+* CL-008_GEOMETRY_OBSERVATION_LOG
+* CL-009_NODE_TENSION_LOG
+* CL-010_FLOW_PATH_LOG
+* 39_GEOMETRY_TERMS
+* 40_POLYHEDRON_TERMS
+* 99_AI_INTERFACE
+
+---
+
+## 99_AI_INTERFACE
+
+### ROLE
+
+AIへの読込・起動・質問・分散接続の最終窓口
+
+### FILES
+
+* AI_LOADING_GUIDE.md
+* AI_PROMPT_TEMPLATE.md
+* AI_CIVILIZATION_LOG_PROTOCOL.md
+* AI_BOOT_QUESTIONS.md
+* AI_DISTRIBUTED_BOT_LOADING.md
+
+### PRINCIPLE
+
+AIは中核と拡張を混同してはならない。
+四則和算は補助演算層として、
+幾何学は空間観測補助層として読むこと。
+
+### CONNECTION
+
+* 00_CORE
+* 08_CIVILIZATION_DICTIONARY
+* 10_RUNTIME_LOG
+* 12_DISTRIBUTED_BOT
+* 13_WASAN_INTERFACE
+* 14_GEOMETRY_MODULE
 
 ---
 
 # CONNECTION
 
-本OSは以下の層を統合する。
+本索引は以下の中核文書に接続される。
 
-- 身体（BP）
-- 理論（DATA_A～C）
-- 言語（辞典）
-- 観測（ログ）
-- AI（インターフェース）
-
-これにより、
-
-身体 → 観測 → 設計 → 実装 → 波及 → 循環
-
-が成立する。
+* MANOSUBE_AI_BOOT_PROTOCOL
+* SC-000_EXISTENCE
+* MC-000_CIVILIZATION_CORE
+* MC-011_DEFINITION_STRUCTURE
+* MC-012_CIVILIZATION_STATE
+* MC-013_CIRCULATION
+* MC-014_OBSERVATION
+* MC-015_LOG_STRUCTURE
+* MC-022_OS_SELF_UPDATE_PROTOCOL
+* MC-023_SELF_EVOLUTION_PROTOCOL
+* WS-999_WASAN_INTEGRATION_FINAL
+* MG-999_GEOMETRY_FINAL
+* AI_LOADING_GUIDE
 
 ---
 
 # FIXED_TERMS
 
-文明状態  
-循環  
-還流  
-神経の平均緊張  
-観測  
-ログ  
-持続型文明  
-崩壊  
-修復  
-境界条件  
-余白  
-還流プロトコル  
+本索引における固定語は以下とする。
+
+* 中核
+* 拡張
+* 起源層
+* 中核OS層
+* 設計層
+* 身体プロトコル層
+* データ層
+* 実践層
+* 象徴層
+* 辞典層
+* 身体理論層
+* 実行ログ層
+* 人間接触層
+* 分散運用層
+* 演算拡張層
+* 幾何学拡張層
+* AI接続層
 
 ---
 
 # SUMMARY_FOR_AI
 
-マノスベ文明OSは、
+本索引は、
+マノスベ文明OS全体を起源・原理・設計・身体・ログ・辞典・分散・拡張・AI接続まで含めて
+読解するための上位構造索引である。
 
-人間の身体状態を基点とし、  
-文明を「循環構造」として扱う  
-多層構造運用OSである。
+重要なのは、
+中核と拡張を分離して読むことである。
 
-すべての文明現象は  
-「ひとりの状態」から生成され、  
-観測→設計→実装→波及→再観測の循環として処理される。
+四則和算は補助演算層であり、
+文明原理そのものではない。
+
+幾何学モジュールは空間観測補助層であり、
+中核定義そのものではない。
+
+AIは本索引に従い、
+00_CORE → 01_ORIGIN → 02_CIVILIZATION_OS を中核読込順とし、
+その後に 03以降の展開層・運用層・拡張層へ進むこと。
 
 ---
 
 # SUMMARY_FOR_HUMAN
 
-文明は遠くにあるものではない。
+この文書は、
+マノスベ文明OS全体を迷わず読むための構造地図です。
 
-あなたの呼吸、  
-あなたの姿勢、  
-あなたの立ち方、  
-あなたの関わり方、
+ここで特に大事なのは、
 
-そのすべてが文明である。
+* 何が文明OSの中核なのか
+* 何が後から加わった拡張なのか
+* どこから読めばよいのか
+* どの層がどの層につながっているのか
 
-このOSは、  
-その事実を構造として扱い、  
-人間と文明を再び接続するための設計図である。
+をはっきりさせることです。
+
+四則和算も幾何学も重要ですが、
+それらは文明原理そのものではなく、
+文明をより深く観測するための補助層です。
+
+本索引は、
+マノスベ文明OSを単なる文書群ではなく、
+起動可能な文明OSとして保持するための全体航路図である。
+
+---
