@@ -1,4 +1,4 @@
-﻿DOC_TYPE: CIVILIZATION_OS
+DOC_TYPE: CIVILIZATION_OS
 SYSTEM: MANOSUBE
 AUTHOR: SHUKOU
 READ_MODE: MACHINE
@@ -18,6 +18,11 @@ JAPANESE_TITLE: マノスベ文明OS 利用ポリシー定義
 これは法的拘束のみを目的としたライセンスではない。
 文明構造が崩壊せず、還流可能な状態を維持するための
 運用プロトコルである。
+
+別途ライセンス表示のある素材を除き、本リポジトリ内の著作権対象コンテンツの
+法的利用条件は、リポジトリ直下の LICENSE に記載する CC BY-SA 4.0 に従う。
+本ドキュメントは運用上の指針であり、そのライセンスで認められる権利を制限する
+追加条件ではない。記述に齟齬がある場合は LICENSE を優先する。
 
 ---
 
