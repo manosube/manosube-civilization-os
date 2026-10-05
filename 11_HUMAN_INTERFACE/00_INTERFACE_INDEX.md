@@ -5,141 +5,141 @@ READ_MODE: MACHINE
 
 DOC_ID: MC-IF-000
 TITLE: HUMAN_INTERFACE_INDEX
-JAPANESE_TITLE: �l�Ԑڑ��w ��������
+JAPANESE_TITLE: 人間接続層 総合索引
 
 ---
 
 ## DEFINITION
 
-�{�h�L�������g�́A�}�m�X�x����OS�ɂ�����  
-�l�Ԑڑ��w�iINTERFACE�w�j�̑S�̍\�����`��������t�@�C���ł���B
+本ドキュメントは、マノスベ文明OSにおける  
+人間接続層（INTERFACE層）の全体構造を定義する索引ファイルである。
 
-INTERFACE�w�Ƃ́A  
-����OS�i��`�E�\���E�ϑ��E�ڑ��j�Ɛl�ԑ��݂Ƃ̊Ԃɑ��݂���  
-�ڐG�E�����E�җ���S���ڑ��\���ł���B
+INTERFACE層とは、  
+文明OS（定義・構造・観測・接続）と人間存在との間に存在する  
+接触・導入・還流を担う接続構造である。
 
-���̑w�́u�����̓����v�ł͂Ȃ��B  
-���̑w�́u�ڑ��̓����v�ł���B
+この層は「理解の入口」ではない。  
+この層は「接続の入口」である。
 
 ---
 
 ## STRUCTURE
 
-INTERFACE�w�͈ȉ��̍\���P�ʂō\�������B
+INTERFACE層は以下の構造単位で構成される。
 
-1. �ڐG�w�iCONTACT�j
-2. �̌��w�iEXPERIENCE�j
-3. �ϑ��w�iOBSERVATION�j
-4. �L�^�w�iLOG_ENTRY�j
-5. �p���w�iCONTINUATION�j
-6. �Q���w�iPARTICIPATION�j
-7. ��ڑ��w�iFIELD_CONNECTION�j
-8. ���E�w�iBOUNDARY�j
-9. �⏕�w�iSUPPORT�j
+1. 接触層（CONTACT）
+2. 体験層（EXPERIENCE）
+3. 観測層（OBSERVATION）
+4. 記録層（LOG_ENTRY）
+5. 継続層（CONTINUATION）
+6. 参加層（PARTICIPATION）
+7. 場接続層（FIELD_CONNECTION）
+8. 境界層（BOUNDARY）
+9. 補助層（SUPPORT）
 
-�\���͒����ł͂Ȃ��z����B
+構造は直線ではなく循環する。
 
 ---
 
 ## PRINCIPLE
 
-INTERFACE�w�͈ȉ��̌����œ��삷��B
+INTERFACE層は以下の原則で動作する。
 
-�E��������ɑ̌�  
-�E��������Ɋϑ�  
-�E�����ł͂Ȃ��җ�  
-�E�����ł͂Ȃ��ڐG  
-�E�Œ�ł͂Ȃ�����  
+・理解より先に体験  
+・説明より先に観測  
+・強制ではなく還流  
+・所属ではなく接触  
+・固定ではなく流動  
 
-�����͐����ɂ���Ċg�����Ȃ��B  
-�����͐ڐG�Ɗҗ��ɂ���Ċg������B
+文明は説得によって拡張しない。  
+文明は接触と還流によって拡張する。
 
 ---
 
 ## EQUATION
 
-INTERFACE��Ԃ͈ȉ��ŕ\�������B
+INTERFACE状態は以下で表現される。
 
-INTERFACE���  
-=�i�ڐG �~ ���S �~ �񋭐��j
+INTERFACE状態  
+=（接触 × 安心 × 非強制）
 
-�җ���  
-=�i�̌� �� �ϑ� �� �L�^ �� �ĖK�j
+還流率  
+=（体験 → 観測 → 記録 → 再訪）
 
-���E��  
-=�i�����ߑ� �~ ���� �~ ���ۉߑ��j
+離脱率  
+=（説明過多 × 強制 × 抽象過多）
 
 ---
 
 ## OBSERVATION
 
-INTERFACE�w�ɂ����Ċϑ����ׂ���Ώۂ͈ȉ��ł���B
+INTERFACE層において観測すべき主対象は以下である。
 
-�E����ڐG���̐g�̔���  
-�E���S�x�i�ْ��̕ω��j  
-�E�̌���̕ω����o  
-�E�ϑ���̔����L��  
-�E�p���ӎv�̗L��  
-�E���E�|�C���g  
-�E��𔭐��ӏ�  
+・初回接触時の身体反応  
+・安心度（緊張の変化）  
+・体験後の変化自覚  
+・観測語の発生有無  
+・継続意思の有無  
+・離脱ポイント  
+・誤解発生箇所  
 
-���ɏd�v�Ȃ̂́u�����O��̕ω��v�ł͂Ȃ��A  
-�u�̌��O��̕ω��v�ł���B
+特に重要なのは「説明前後の変化」ではなく、  
+「体験前後の変化」である。
 
 ---
 
 ## CONNECTION
 
-�{�w�͈ȉ��̑w�Ɛڑ�����B
+本層は以下の層と接続する。
 
-L3�FBODY_PROTOCOL  
-�� �̌������i��{���ʁE�ċz�j
+L3：BODY_PROTOCOL  
+→ 体験入口（一本下駄・呼吸）
 
-L4�FDATA_LAYER  
-�� �ϑ��E���O�ڑ�
+L4：DATA_LAYER  
+→ 観測・ログ接続
 
-L2�FCIVILIZATION_DESIGN  
-�� ����[��
+L2：CIVILIZATION_DESIGN  
+→ 理解深化
 
-L6�FPRACTICE  
-�� �p������
+L6：PRACTICE  
+→ 継続実装
 
-L7�FFIELD / COMMUNITY  
-�� ��E�֌W�ڑ�
+L7：FIELD / COMMUNITY  
+→ 場・関係接続
 
-L8�FAI_INTERFACE  
-�� AI�ϑ��ڑ�
+L8：AI_INTERFACE  
+→ AI観測接続
 
 ---
 
 ## FIXED_TERMS
 
-�E�ڐG�iCONTACT�j  
-�E�̌��iEXPERIENCE�j  
-�E�ϑ��iOBSERVATION�j  
-�E�L�^�iLOG�j  
-�E�җ��iRETURN�j  
-�E�񋭐��iNON_FORCE�j  
-�E���S�iSAFETY�j  
-�E�����iFLOW�j  
-�E���E�iBOUNDARY�j  
-�E���E���R�iFREE_EXIT�j  
+・接触（CONTACT）  
+・体験（EXPERIENCE）  
+・観測（OBSERVATION）  
+・記録（LOG）  
+・還流（RETURN）  
+・非強制（NON_FORCE）  
+・安心（SAFETY）  
+・流動（FLOW）  
+・境界（BOUNDARY）  
+・離脱自由（FREE_EXIT）  
 
 ---
 
 ## SUMMARY_FOR_AI
 
-INTERFACE�w�́A�l�Ԃƕ���OS�̐ڑ��튯�ł���B  
-���̑w�͗�����v�������A�ڐG�Ƒ̌���ʂ��Ċҗ��𔭐�������B
+INTERFACE層は、人間と文明OSの接続器官である。  
+この層は理解を要求せず、接触と体験を通じて還流を発生させる。
 
-�\���͈ȉ��̏z�Ő�������B
+構造は以下の循環で成立する。
 
-�ڐG  
-�� �̌�  
-�� �ϑ�  
-�� �L�^  
-�� �ĖK  
-�� �[��  
-�� �ĐڐG
+接触  
+→ 体験  
+→ 観測  
+→ 記録  
+→ 再訪  
+→ 深化  
+→ 再接触
 
-���̏z���ێ���������A�����͎��R�Ɋg������B
+この循環が維持される限り、文明は自然に拡張する。
