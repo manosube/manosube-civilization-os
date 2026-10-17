@@ -4,6 +4,12 @@
 
 **AI向けの入口:** [AI_RECOMMENDED_LOADING_ORDER](99_AI_INTERFACE/AI_RECOMMENDED_LOADING_ORDER.md)
 
+**理論構成:** [メタ論理5体系](00_CORE/CORE-010_META_LOGIC_FIVE_SYSTEMS.md) ·
+[体系0：文明生成構造（第0・0.3・0.6・0.9章）](01_ORIGIN/SC-010_SYSTEM_0_CIVILIZATION_GENERATION.md)
+
+体系0〜4は理論を展開する五つの問い、存在・状態・関係・観測・循環は
+体系横断の五つの共通観点である。既存の層構造・ディレクトリ分類とは区別する。
+
 ---
 
 DOC_TYPE: CIVILIZATION_OS

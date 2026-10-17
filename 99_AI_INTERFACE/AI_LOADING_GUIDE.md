@@ -32,6 +32,11 @@ AIはこれを
 
 # STRUCTURE
 
+[メタ論理5体系](../00_CORE/CORE-010_META_LOGIC_FIVE_SYSTEMS.md)で理論構成と
+五つの共通観点を区別し、ORIGIN段階で
+[体系0本文](../01_ORIGIN/SC-010_SYSTEM_0_CIVILIZATION_GENERATION.md)を併読する。
+体系番号は下記の読込層番号やKernel要素数ではない。
+
 AIは以下の順序で読み込みを行うこと。
 
 ## 第一層：CORE（起動）
