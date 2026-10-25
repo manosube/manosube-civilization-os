@@ -171,3 +171,8 @@ RESonance Log（響き観測ログ）とは、
 
 共鳴が維持されているか、断絶しているかは、
 文明の持続性および崩壊兆候の早期判定指標となる。
+
+
+# カタカムナ実践との接続
+
+[聴く・唱える実践](../04_BODY_PROTOCOL/KATAKAMUNA/README.md)には、[専用記録テンプレート](CL_RUNTIME/TEMPLATES/CL-TEMPLATE-005_KATAKAMUNA_PRACTICE.md)を使える。意味理解を要求せず、首ID・音の参照・聴取と発声・休止・本人記述を記録する。本人の感覚、計測値、AIの整理、未確認事項を区別し、変化なし・不快・不明も残す。
