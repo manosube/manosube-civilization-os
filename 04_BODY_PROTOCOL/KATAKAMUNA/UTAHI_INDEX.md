@@ -1,86 +1,88 @@
 # 八〇首の参照索引
 
-基準は同梱PDF。首IDは検索・記録用で、音源トラック番号や意味の分類ではない。PDFの二段組を読み順と取り違えないため、首番号順に列挙する。音源は未登録のため、時刻欄は未設定である。詞章の全文テキスト化・表記校訂は今回行わず、本文はPDFを参照する。第2首の抽出文字「ニ」は首IDでは2へ対応付け、PDF原本は変更していない。
+カタカナ版の基準は同梱KATAKAMUNA_80_KATAKANA.pdf。首IDは検索・記録用で、音源トラック番号や意味の分類ではない。PDFの二段組を読み順と取り違えないため、首番号順に列挙する。音源は未登録のため、時刻欄は未設定である。詞章の全文テキスト化・表記校訂は今回行わず、本文はPDFを参照する。第2首の抽出文字「ニ」は首IDでは2へ対応付け、PDF原本は変更していない。
 
-| 首ID | 首番号 | PDFページ | PDFの見出し | 音源時刻 |
-|---|---:|---:|---|---|
-| KATA-001 | 1 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ミクマリ | 未登録 |
-| KATA-002 | 2 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-003 | 3 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | フトマニ | 未登録 |
-| KATA-004 | 4 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-005 | 5 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-006 | 6 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-007 | 7 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-008 | 8 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-009 | 9 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-010 | 10 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-011 | 11 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | フトマニ | 未登録 |
-| KATA-012 | 12 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-013 | 13 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-014 | 14 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ヤタノカカミ | 未登録 |
-| KATA-015 | 15 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | ミクマリ | 未登録 |
-| KATA-016 | 16 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-017 | 17 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-018 | 18 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | フトマニ | 未登録 |
-| KATA-019 | 19 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-020 | 20 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-021 | 21 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | フトマニ | 未登録 |
-| KATA-022 | 22 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-023 | 23 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-024 | 24 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-025 | 25 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-026 | 26 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-027 | 27 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-028 | 28 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-029 | 29 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-030 | 30 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | ヤタノカカミ | 未登録 |
-| KATA-031 | 31 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-032 | 32 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-033 | 33 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-034 | 34 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-035 | 35 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-036 | 36 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-037 | 37 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-038 | 38 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-039 | 39 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-040 | 40 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-041 | 41 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-042 | 42 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | ヤタノカカミ | 未登録 |
-| KATA-043 | 43 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-044 | 44 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-045 | 45 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-046 | 46 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | フトマニ | 未登録 |
-| KATA-047 | 47 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-048 | 48 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-049 | 49 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-050 | 50 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-051 | 51 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-052 | 52 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-053 | 53 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-054 | 54 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-055 | 55 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-056 | 56 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | ヤタノカカミ | 未登録 |
-| KATA-057 | 57 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-058 | 58 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-059 | 59 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-060 | 60 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-061 | 61 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-062 | 62 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-063 | 63 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-064 | 64 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-065 | 65 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-066 | 66 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-067 | 67 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-068 | 68 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-069 | 69 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-070 | 70 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | ヤタノカカミ | 未登録 |
-| KATA-071 | 71 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-072 | 72 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-073 | 73 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-074 | 74 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-075 | 75 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-076 | 76 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-077 | 77 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | フトマニ | 未登録 |
-| KATA-078 | 78 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | フトマニ | 未登録 |
-| KATA-079 | 79 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
-| KATA-080 | 80 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | ヤタノカカミ | 未登録 |
+| 首ID | 首番号 | カタカナPDFページ | 図象符PDFページ | カタカナPDFの見出し | 音源時刻 |
+|---|---:|---:|---:|---|---|
+| KATA-001 | 1 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.2](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=2) | ミクマリ | 未登録 |
+| KATA-002 | 2 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.3](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=3) | ヤタノカカミ | 未登録 |
+| KATA-003 | 3 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.4](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=4) | フトマニ | 未登録 |
+| KATA-004 | 4 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.5](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=5) | ヤタノカカミ | 未登録 |
+| KATA-005 | 5 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.6](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=6) | ヤタノカカミ | 未登録 |
+| KATA-006 | 6 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.7](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=7) | ヤタノカカミ | 未登録 |
+| KATA-007 | 7 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.8](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=8) | ヤタノカカミ | 未登録 |
+| KATA-008 | 8 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.9](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=9) | ヤタノカカミ | 未登録 |
+| KATA-009 | 9 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.10](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=10) | ヤタノカカミ | 未登録 |
+| KATA-010 | 10 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.11](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=11) | ヤタノカカミ | 未登録 |
+| KATA-011 | 11 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.12](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=12) | フトマニ | 未登録 |
+| KATA-012 | 12 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.13](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=13) | ヤタノカカミ | 未登録 |
+| KATA-013 | 13 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.14](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=14) | ヤタノカカミ | 未登録 |
+| KATA-014 | 14 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.15](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=15) | ヤタノカカミ | 未登録 |
+| KATA-015 | 15 | [p.1](KATAKAMUNA_80_KATAKANA.pdf#page=1) | [p.16](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=16) | ミクマリ | 未登録 |
+| KATA-016 | 16 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.17](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=17) | ヤタノカカミ | 未登録 |
+| KATA-017 | 17 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.18](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=18) | ヤタノカカミ | 未登録 |
+| KATA-018 | 18 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.19](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=19) | フトマニ | 未登録 |
+| KATA-019 | 19 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.20](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=20) | ヤタノカカミ | 未登録 |
+| KATA-020 | 20 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.21](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=21) | ヤタノカカミ | 未登録 |
+| KATA-021 | 21 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.22](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=22) | フトマニ | 未登録 |
+| KATA-022 | 22 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.23](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=23) | ヤタノカカミ | 未登録 |
+| KATA-023 | 23 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.24](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=24) | ヤタノカカミ | 未登録 |
+| KATA-024 | 24 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.25](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=25) | ヤタノカカミ | 未登録 |
+| KATA-025 | 25 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.26](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=26) | ヤタノカカミ | 未登録 |
+| KATA-026 | 26 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.27](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=27) | ヤタノカカミ | 未登録 |
+| KATA-027 | 27 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.28](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=28) | ヤタノカカミ | 未登録 |
+| KATA-028 | 28 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.29](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=29) | ヤタノカカミ | 未登録 |
+| KATA-029 | 29 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.30](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=30) | ヤタノカカミ | 未登録 |
+| KATA-030 | 30 | [p.2](KATAKAMUNA_80_KATAKANA.pdf#page=2) | [p.31](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=31) | ヤタノカカミ | 未登録 |
+| KATA-031 | 31 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.32](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=32) | ヤタノカカミ | 未登録 |
+| KATA-032 | 32 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.33](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=33) | ヤタノカカミ | 未登録 |
+| KATA-033 | 33 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.34](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=34) | ヤタノカカミ | 未登録 |
+| KATA-034 | 34 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.35](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=35) | ヤタノカカミ | 未登録 |
+| KATA-035 | 35 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.36](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=36) | ヤタノカカミ | 未登録 |
+| KATA-036 | 36 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.37](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=37) | ヤタノカカミ | 未登録 |
+| KATA-037 | 37 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.38](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=38) | ヤタノカカミ | 未登録 |
+| KATA-038 | 38 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.39](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=39) | ヤタノカカミ | 未登録 |
+| KATA-039 | 39 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.40](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=40) | ヤタノカカミ | 未登録 |
+| KATA-040 | 40 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.41](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=41) | ヤタノカカミ | 未登録 |
+| KATA-041 | 41 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.42](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=42) | ヤタノカカミ | 未登録 |
+| KATA-042 | 42 | [p.3](KATAKAMUNA_80_KATAKANA.pdf#page=3) | [p.43](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=43) | ヤタノカカミ | 未登録 |
+| KATA-043 | 43 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.44](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=44) | ヤタノカカミ | 未登録 |
+| KATA-044 | 44 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.45](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=45) | ヤタノカカミ | 未登録 |
+| KATA-045 | 45 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.46](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=46) | ヤタノカカミ | 未登録 |
+| KATA-046 | 46 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.47](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=47) | フトマニ | 未登録 |
+| KATA-047 | 47 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.48](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=48) | ヤタノカカミ | 未登録 |
+| KATA-048 | 48 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.49](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=49) | ヤタノカカミ | 未登録 |
+| KATA-049 | 49 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.50](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=50) | ヤタノカカミ | 未登録 |
+| KATA-050 | 50 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.51](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=51) | ヤタノカカミ | 未登録 |
+| KATA-051 | 51 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.52](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=52) | ヤタノカカミ | 未登録 |
+| KATA-052 | 52 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.53](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=53) | ヤタノカカミ | 未登録 |
+| KATA-053 | 53 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.54](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=54) | ヤタノカカミ | 未登録 |
+| KATA-054 | 54 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.55](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=55) | ヤタノカカミ | 未登録 |
+| KATA-055 | 55 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.56](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=56) | ヤタノカカミ | 未登録 |
+| KATA-056 | 56 | [p.4](KATAKAMUNA_80_KATAKANA.pdf#page=4) | [p.57](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=57) | ヤタノカカミ | 未登録 |
+| KATA-057 | 57 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.58](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=58) | ヤタノカカミ | 未登録 |
+| KATA-058 | 58 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.59](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=59) | ヤタノカカミ | 未登録 |
+| KATA-059 | 59 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.60](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=60) | ヤタノカカミ | 未登録 |
+| KATA-060 | 60 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.61](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=61) | ヤタノカカミ | 未登録 |
+| KATA-061 | 61 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.62](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=62) | ヤタノカカミ | 未登録 |
+| KATA-062 | 62 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.63](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=63) | ヤタノカカミ | 未登録 |
+| KATA-063 | 63 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.64](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=64) | ヤタノカカミ | 未登録 |
+| KATA-064 | 64 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.65](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=65) | ヤタノカカミ | 未登録 |
+| KATA-065 | 65 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.66](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=66) | ヤタノカカミ | 未登録 |
+| KATA-066 | 66 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.67](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=67) | ヤタノカカミ | 未登録 |
+| KATA-067 | 67 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.68](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=68) | ヤタノカカミ | 未登録 |
+| KATA-068 | 68 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.69](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=69) | ヤタノカカミ | 未登録 |
+| KATA-069 | 69 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.70](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=70) | ヤタノカカミ | 未登録 |
+| KATA-070 | 70 | [p.5](KATAKAMUNA_80_KATAKANA.pdf#page=5) | [p.71](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=71) | ヤタノカカミ | 未登録 |
+| KATA-071 | 71 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.72](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=72) | ヤタノカカミ | 未登録 |
+| KATA-072 | 72 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.73](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=73) | ヤタノカカミ | 未登録 |
+| KATA-073 | 73 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.74](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=74) | ヤタノカカミ | 未登録 |
+| KATA-074 | 74 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.75](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=75) | ヤタノカカミ | 未登録 |
+| KATA-075 | 75 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.76](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=76) | ヤタノカカミ | 未登録 |
+| KATA-076 | 76 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.77](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=77) | ヤタノカカミ | 未登録 |
+| KATA-077 | 77 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.78](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=78) | フトマニ | 未登録 |
+| KATA-078 | 78 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.79](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=79) | フトマニ | 未登録 |
+| KATA-079 | 79 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.80](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=80) | ヤタノカカミ | 未登録 |
+| KATA-080 | 80 | [p.6](KATAKAMUNA_80_KATAKANA.pdf#page=6) | [p.81](KATAKAMUNA_80_SYMBOLS_FURIGANA.pdf#page=81) | ヤタノカカミ | 未登録 |
+
+図象符版は[使い方と原本情報](SYMBOL_PRACTICE.md)を参照。p.1は中心図象、第n首はp.(n+1)。見出し番号・ページの対応を確認したもので、両資料の詞章全文の同一性や読み順を確定した表ではない。
