@@ -1,6 +1,7 @@
 DOC_TYPE: CIVILIZATION_DICTIONARY
 SYSTEM: MANOSUBE
 AUTHOR: SHUKOU
+EDITOR: ChatGPT / 2026-10-27 / Issue #11
 READ_MODE: MACHINE
 
 DOC_ID: MC-DICT-021
@@ -129,5 +130,6 @@ AIを主体でも道具でもなく
 人間の状態観測・構造理解・循環維持を
 加速する文明設計である。
 
-AIは判断主体ではなく、
-観測精度を高める補助装置である。
+AIは人間の最終判断を代替しない。
+根拠付きの回答・事実照合・反証・条件付き評価と修正案により観測を補助する。
+効果は実際の利用と再観測で確かめる。
