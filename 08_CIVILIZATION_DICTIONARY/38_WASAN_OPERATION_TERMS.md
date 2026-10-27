@@ -1,6 +1,7 @@
 DOC_TYPE: CIVILIZATION_DICTIONARY
 SYSTEM: MANOSUBE
 AUTHOR: SHUKOU
+EDITOR: ChatGPT / 2026-10-27 / Issue #11
 READ_MODE: MACHINE / HUMAN
 
 DOC_ID: MC-DICT-038
@@ -32,7 +33,11 @@ CUT（切算）
 
 分割は結果ではなく、状態の表出である。
 
-### EQUATION
+## 観測・推定・未確認の境界
+
+本辞典の潜在・裏算・潜在比は、観測済みの量と未確認の仮説を区別する。測定方法・単位・適用条件・データがない式は数値化しない。詳細は[MC-026](../02_CIVILIZATION_OS/MC-026_HIDDEN_STATE_CALCULATION.md)、[WS-003](../13_WASAN_INTERFACE/WS-003_BACKSIDE_OPERATION.md)、[CL-007](../05_DATA_LAYER/CL-007_HIDDEN_STATE_LOG.md)へ接続する。
+
+## EQUATION
 
 分割状態 = 表出比 / 潜在比 / 欠落比
 
@@ -115,7 +120,7 @@ BACKSIDE（裏算）
 
 ### STRUCTURE
 
-すべての状態には、表層と潜在層が存在する。
+表層の観測と、確認済みの未表出状態・未確認の潜在仮説を分ける。
 
 ### PRINCIPLE
 
@@ -127,7 +132,7 @@ BACKSIDE（裏算）
 
 ### OBSERVATION
 
-表面的な成功や合意の裏に、未処理の緊張や抵抗が存在する。
+成功や合意だけで内面を確定しない。未処理の緊張や抵抗は、根拠付きの仮説として本人申告・観測で確認する。
 
 ### CONNECTION
 
@@ -139,7 +144,7 @@ BACKSIDE（裏算）
 
 ### SUMMARY_FOR_AI
 
-可視データと不可視データを同時に扱う。
+可視データと未確認の仮説を区別し、根拠・対立仮説・確認方法・反証を保持する。
 
 ### SUMMARY_FOR_HUMAN
 
@@ -243,11 +248,11 @@ HIDDEN_RATIO（潜在比）
 
 ### DEFINITION
 
-表に現れていないが、状態に影響を与えている比率。
+未表出状態の影響を検討するための比率概念。測定条件がなければ値も影響の有無も未確認とする。
 
 ### STRUCTURE
 
-表出と潜在は常に乖離する。
+表出と潜在の乖離は確認対象であり、常にあるとは確定しない。
 
 ### PRINCIPLE
 
@@ -259,7 +264,7 @@ HIDDEN_RATIO（潜在比）
 
 ### OBSERVATION
 
-無意識の緊張や抵抗が、行動を支配する。
+緊張や抵抗が行動に影響する可能性を、本人申告・観測と対立仮説で確認する。
 
 ### CONNECTION
 
@@ -271,11 +276,11 @@ BACKSIDE／神経の平均緊張／還流阻害
 
 ### SUMMARY_FOR_AI
 
-不可視の影響を推定する。
+根拠のある仮説を提示し、測定条件がない潜在量・比率・確率は不明として確認へ戻す。
 
 ### SUMMARY_FOR_HUMAN
 
-見えていないものが、実は動かしている。
+見えていない部分は、決めつけず確かめる。
 
 ---
 
